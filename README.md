@@ -1,3 +1,6 @@
+> # 🚨🚨🚨
+> ## Тестово задание для Tatlin.Object core: https://github.com/NikolaySkladnev/names-count. При сдаче случайно прикрепил ссылку не на тот репозиторий
+> # 🚨🚨🚨
 # ТЗ
 
 ## System prototype
